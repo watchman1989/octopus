@@ -1,0 +1,7 @@
+redis:
+  host: "127.0.0.1:6379"
+mongo:
+  host: "127.0.0.1:9090"
+kafka:
+  cluster: "security.infra"
+  topic: "init"
